@@ -1,0 +1,15 @@
+C:\Users\Mark\Desktop\codeclass\Asking questions\bin\Debug\net6.0\Asking questions.exe
+C:\Users\Mark\Desktop\codeclass\Asking questions\bin\Debug\net6.0\Asking questions.deps.json
+C:\Users\Mark\Desktop\codeclass\Asking questions\bin\Debug\net6.0\Asking questions.runtimeconfig.json
+C:\Users\Mark\Desktop\codeclass\Asking questions\bin\Debug\net6.0\Asking questions.dll
+C:\Users\Mark\Desktop\codeclass\Asking questions\bin\Debug\net6.0\Asking questions.pdb
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\Asking questions.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\Asking questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\Asking questions.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\Asking questions.AssemblyInfo.cs
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\Asking questions.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\Asking questions.dll
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\refint\Asking questions.dll
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\Asking questions.pdb
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\Asking questions.genruntimeconfig.cache
+C:\Users\Mark\Desktop\codeclass\Asking questions\obj\Debug\net6.0\ref\Asking questions.dll
