@@ -16,7 +16,6 @@ Console.WriteLine("Hello user what is your name");
 
 string Name = Console.ReadLine();
 
-
 string Hour = "";
 
 Console.WriteLine($"thank you {Name}");
@@ -49,7 +48,6 @@ minute = Console.ReadLine();
 Console.WriteLine($"thank you {Name}");
 
 Console.WriteLine($"{Name} you woke up at {Hour}:{minute}");
-
 
 bool yessir = true;
 Console.WriteLine($"want to play again");
