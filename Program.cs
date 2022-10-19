@@ -9,6 +9,7 @@ bool playing = true;
 
 while(playing == true)
 {
+playing = true;
 
 Console.Clear();
 
